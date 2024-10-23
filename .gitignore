@@ -77,46 +77,4 @@ crashlytics-build.properties
 +!/[Aa]ssets/Project/
 
 # Unity関連のファイルとフォルダを無視
-no*/My Project/[Ll]ibrary/
-no*/My Project/[Tt]emp/
-no*/My Project/[Oo]bj/
-no*/My Project/[Bb]uild/
-no*/My Project/[Bb]uilds/
-no*/My Project/[Ll]ogs/
-no*/My Project/[Uu]ser[Ss]ettings/
-no*/My Project/[Mm]emoryCaptures/
-no*/My Project/[Rr]ecordings/
-no*/My Project/[Aa]ssets/AssetStoreTools*
-no*/My Project/[Aa]ssets/Project/Plugins/Editor/JetBrains*
-no*/My Project/.vs/
-no*/My Project/.gradle/
-no*/My Project/ExportedObj/
-no*/My Project/.consulo/
-no*/My Project/*.csproj
-no*/My Project/*.unityproj
-no*/My Project/*.sln
-no*/My Project/*.suo
-no*/My Project/*.tmp
-no*/My Project/*.user
-no*/My Project/*.userprefs
-no*/My Project/*.pidb
-no*/My Project/*.booproj
-no*/My Project/*.svd
-no*/My Project/*.pdb
-no*/My Project/*.mdb
-no*/My Project/*.opendb
-no*/My Project/*.VC.db
-no*/My Project/*.pidb.meta
-no*/My Project/*.pdb.meta
-no*/My Project/*.mdb.meta
-no*/My Project/sysinfo.txt
-no*/My Project/*.apk
-no*/My Project/*.aab
-no*/My Project/*.unitypackage
-no*/My Project/*.app
-no*/My Project/crashlytics-build.properties
-no*/My Project/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
-no*/My Project/[Aa]ssets/[Ss]treamingAssets/aa.meta
-no*/My Project/[Aa]ssets/[Ss]treamingAssets/aa/*
-no*/My Project/[Aa]ssets/*
-!no*/My Project/[Aa]ssets/Project/
+no*/
